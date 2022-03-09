@@ -1,6 +1,7 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
+url: https://jk-joy.github.io/JOY_BLOG.github.io/
 baseurl: "https://jk-joy.github.io/JOY_BLOG.github.io/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
